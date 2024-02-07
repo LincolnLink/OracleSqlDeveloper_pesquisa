@@ -45,6 +45,19 @@
    - atribuição: normal
    - serviço: XEPDB1
 
+# Criando tabela
+
+<blockquete>
+
+        CREATE TABLE ProdutoTeste (
+            IdProduto int,
+            NomeProduto varchar(255),
+            Fornecedor varchar(255)
+        );
+
+</blockquete>
+
+
 
 
 
